@@ -17,10 +17,10 @@ A simple **React.js** project that allows users to create and display posts dyna
 ## Screenshots
 
 ### Home Page
-![Home Page](assets/images/homePage.png)
+![Home Page](src/assets/images/homePage.png)
 
 ### Create Post
-![Create Post](assets/images/createPost.png)
+![Create Post](src/assets/images/createPost.png)
 
 ## Getting Started
 
