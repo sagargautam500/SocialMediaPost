@@ -1,8 +1,32 @@
-# React + Vite
+# Social Media Post
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple **React.js** project that allows users to create and display posts dynamically. This project demonstrates the basics of React's component structure and state management.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📝 **Create Posts**: Add a new post with a title and description.
+- 🏠 **Display Posts**: Automatically display all created posts on the home page.
+- 🎨 **User-Friendly Interface**: Clean and responsive design.
+
+## Technologies Used
+
+- ⚛️ React.js
+- 💻 HTML/CSS
+- 🖍️ JavaScript
+
+## Screenshots
+
+### Home Page
+![Home Page](assets/images/homePage.png)
+
+### Create Post
+![Create Post](assets/images/createPost.png)
+
+## Getting Started
+
+Follow these steps to run the project locally:
+
+### Prerequisites
+- Node.js and npm installed on your system.
+- Basic knowledge of React.
+
